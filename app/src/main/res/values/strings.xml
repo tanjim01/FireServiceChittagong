@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Fire Service Chittagong</string>
+
+    <string-array name="Station_Name">
+
+        <item>Deputy Director</item>
+        <item>Agrabad Fire Station</item>
+        <item>Port Fire Station</item>
+        <item>EPZ Fire Station</item>
+        <item>Kumira Fire Station</item>
+        <item>Shitakundu Fire Station</item>
+        <item>Mirshorai Fire Station</item>
+        <item>Deputy Assistant Director (Zone-2)</item>
+        <item>Potia Fire Station</item>
+        <item>Satkania Fire Station</item>
+        <item>Nandankanan Fire Station</item>
+        <item>Chandanpura Fire Station</item>
+        <item>Lamarbazar Fire Station</item>
+        <item>Boalkhali Fire Station</item>
+        <item>Deputy Assistant Director (Zone-3)</item>
+        <item>Kaptai Fire Station</item>
+        <item>Rangunia Fire Station</item>
+        <item>Kalurghat Fire Station</item>
+        <item>Raojan Fire Station</item>
+        <item>Fatikchori Fire Station</item>
+        <item>Hathajari Fire Station</item>
+        <item>Baejid Fire Station</item>
+
+    </string-array>
+
+    <string-array name="Station_Numbers">
+
+        <item>8801730002407</item>
+        <item>8801730002408</item>
+        <item>8801730002420</item>
+        <item>8801730002425</item>
+        <item>8801558456200</item>
+        <item>8801730002428</item>
+        <item>8801875977994</item>
+        <item>8801730002463</item>
+        <item>8801730002430</item>
+        <item>8801730002433</item>
+        <item>8801730002412</item>
+        <item>8801730002413</item>
+        <item>8801730002419</item>
+        <item>8801620336666</item>
+        <item>8801730002463</item>
+        <item>0352956222</item>
+        <item>0302556255</item>
+        <item>8801730002423</item>
+        <item>0302656495</item>
+        <item>8801772241510</item>
+        <item>8801730002427</item>
+        <item>8801730002417</item>
+
+    </string-array>
+</resources>
